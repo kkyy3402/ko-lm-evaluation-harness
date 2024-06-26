@@ -212,3 +212,9 @@ build/
 logs/
 output/
 lm_eval.egg-info/
+
+results/
+nohup.out
+result.*
+*.xlsx
+*.ipynb
